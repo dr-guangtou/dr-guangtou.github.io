@@ -24,17 +24,16 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/dr_guangtou
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
   - title: github
     url: http://github.com/dr-guangtou
+  - title: google-plus 
+    url: https://plus.google.com/+SongHuangAstro 
+  - title: weibo 
+    url: http://www.weibo.com/1764919567
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: IPMU, University of Tokyo
   - line: 6-2-3, Kashiwanoha, 
   - line: Kashiwa, Chiba, Japan
 
