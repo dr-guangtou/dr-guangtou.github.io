@@ -1,8 +1,8 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: "Song Huang's Homepage"
+email: dr.guangtou@gmail.com 
+url: https://dr-guangtou.github.io
+description: "This is Song Huang's homepage for research related stuff." 
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,7 +15,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Dr. Song Huang  
   location: Location
   social: Around the Web
   credits: Credits
