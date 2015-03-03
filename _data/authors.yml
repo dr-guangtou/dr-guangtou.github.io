@@ -1,20 +1,12 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+shuang:
+  name: Song Huang 
+  web: http://dr-guangtou.github.io/
+  email: dr.guangtou@gmail.com
+  bio: "post-doc in astrophysics, massive galaxy lover"
   avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+  twitter: dr_guangtou 
   google:
-    plus: CorneliusFiddlebone
+    plus: songhuang.nju
+

@@ -31,16 +31,16 @@ owner:
   bio: "post-doc in astrophysics, massive galaxy lover"
   email: dr.guangtou@gmail.com 
   disqus-shortname: 
-  twitter: #dr_guangtou
+  twitter: dr_guangtou
   facebook: #username
   google:
-    plus: #songhuang.nju
+    plus: songhuang.nju
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #dr-guangtou
+  github: dr-guangtou
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -52,7 +52,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #光头怪博士
+  weibo: 光头怪博士
   flickr: #username
 
 include: [".htaccess"]
