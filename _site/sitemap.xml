@@ -3,45 +3,60 @@
   <url>
     <loc>dr-guangtou.github.io/author-override/</loc>
     <lastmod>2014-07-31T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/code-highlighting-post/</loc>
     <lastmod>2013-08-16T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/sample-link-post/</loc>
     <lastmod>2013-08-12T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/readability-feature-post/</loc>
     <lastmod>2013-05-23T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/sample-post-images/</loc>
     <lastmod>2013-05-22T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/readability-post/</loc>
     <lastmod>2012-05-22T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/sample-post/</loc>
     <lastmod>2011-03-10T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/</loc>
-    <lastmod>2015-03-03T13:57:47-05:00</lastmod>
+    <lastmod>2015-03-03T14:50:47-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/theme-setup/</loc>
-    <lastmod>2015-03-03T13:57:47-05:00</lastmod>
+    <lastmod>2015-03-03T14:50:47-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/posts/</loc>
-    <lastmod>2015-03-03T13:57:47-05:00</lastmod>
+    <lastmod>2015-03-03T14:50:47-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>dr-guangtou.github.io/about/</loc>
-    <lastmod>2015-03-03T13:57:47-05:00</lastmod>
+    <lastmod>2015-03-03T14:50:47-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
