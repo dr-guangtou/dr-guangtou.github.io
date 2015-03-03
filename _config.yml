@@ -34,7 +34,7 @@ owner:
   twitter: dr_guangtou
   facebook: #username
   google:
-    plus: songhuang.nju
+    plus: SongHuang 
     analytics: 
     verify: 
     ad-client: 
@@ -52,7 +52,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: 光头怪博士
+  weibo: 1764919567 
   flickr: #username
 
 include: [".htaccess"]
