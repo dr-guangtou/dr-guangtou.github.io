@@ -1,6 +1,6 @@
 ---
-layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+layout: page 
+excerpt: "Song Huang's Research Homepage" 
 tags: [page, personal]
 image:
   feature: coma_cluster.png
