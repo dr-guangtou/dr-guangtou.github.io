@@ -8,18 +8,16 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.project %}
-                    <div class="col-sm-4 projects-item">
-                        <a href="#projectsModal-{{ post.modal-id }}" class="projects-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
+                <div class="col-sm-4 projects-item">
+                    <a href="#projectsModal-1" class="projects-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
                             </div>
-                            <img src="img/project/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                        </a>
-                    </div>
-                {% endfor %}
+                        </div>
+                        <img src="img/project/cabin.png" class="img-responsive" alt="a">
+                    </a>
+                </div>
             </div>
         </div>
     </section>
