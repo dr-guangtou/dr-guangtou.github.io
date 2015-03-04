@@ -9,8 +9,8 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary:   2b8cbe #80B3FF
-  secondary: a8ddb5 #FD6E8A
+  primary:   2c7fb8 #80B3FF
+  secondary: 7fcdbb #FD6E8A
   secondary-dark: 233140 #A2122F
 # primary: 18bc9c #80B3FF
 # secondary: 2c3e50 #FD6E8A
@@ -41,7 +41,7 @@ address:
   - line: Kashiwa, Chiba, Japan
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This website is based on Jekyll theme <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>.'
 
 # Build settings
 markdown: kramdown
