@@ -2,7 +2,7 @@
 title: "Song Huang's Homepage"
 email: dr.guangtou@gmail.com 
 url: https://dr-guangtou.github.io
-description: "This is Song Huang's homepage for research related stuff." 
+description: "This is Song Huang's homepage for Astrophysical Research" 
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -29,15 +29,17 @@ social:
     url: http://twitter.com/dr_guangtou
   - title: github
     url: http://github.com/dr-guangtou
-  - title: google-plus 
-    url: https://plus.google.com/+SongHuangAstro 
   - title: weibo 
     url: http://www.weibo.com/1764919567
+  - title: linkedin 
+    url: https://www.linkedin.com/in/%E5%B4%A7-%E9%BB%84-71b4a4117?trk=nav_responsive_tab_profile_pic
+  - title: google-plus 
+    url: https://plus.google.com/+SongHuangAstro 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: IPMU, University of Tokyo
-  - line: 6-2-3, Kashiwanoha, 
+  - line: Kavli-IPMU, University of Tokyo
+  - line: 5-1-5, Kashiwanoha, 
   - line: Kashiwa, Chiba, Japan
 
 # Credits content
