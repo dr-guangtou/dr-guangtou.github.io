@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017
-img: portfolio.001.png
+img: research_1.png
 alt: image-alt
 project-date: 2017
 client: Submitted to ApJ
