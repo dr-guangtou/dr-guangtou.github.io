@@ -286,7 +286,7 @@ section.success {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
 }
 
 #projects .projects-item .projects-link .caption .caption-content i {
@@ -472,7 +472,7 @@ footer .footer-below {
     right: 25px;
     width: 75px;
     height: 75px;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.primary }};
     cursor: pointer;
 }
 
