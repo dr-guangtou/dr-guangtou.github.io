@@ -67,21 +67,13 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.color.secondary }};
 }
 
 hr.star-primary:after {
     color: #{{ site.color.primary }};
     background-color: #fff;
 }
-
-hr.star-secondary {
-    border-color: #{{ site.color.secondary }};
-}
-
-hr.star-secondary:after {
-    color: #{{ site.color.secondary }};
-    background-color: #fff;
 
 .img-centered {
     margin: 0 auto;
@@ -318,7 +310,7 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #{{ site.color.primary }};
+    border: solid 2px #{{ site.color.secondary }};
     font-size: 20px;
     color: #{{ site.color.primary }};
     background: 0 0;
