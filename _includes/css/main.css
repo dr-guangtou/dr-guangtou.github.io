@@ -258,11 +258,13 @@ section.success {
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
+    color: #{{ site.color.primary }};
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
     margin: 0;
+    color: #{{ site.color.primary }};
 }
 
 #portfolio * {
