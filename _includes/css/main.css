@@ -86,8 +86,8 @@ header {
 }
 
 header .container {
-    padding-top: 50px;
-    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 header img {
@@ -110,7 +110,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 150px;
+        padding-top: 50px;
         padding-bottom: 50px;
     }
 
@@ -180,7 +180,7 @@ section h2 {
 }
 
 section.success {
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
     background: {{ site.color.secondary }};
 }
 
