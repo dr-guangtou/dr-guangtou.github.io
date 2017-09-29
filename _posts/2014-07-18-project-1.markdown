@@ -1,4 +1,5 @@
 ---
+title: Mapping Stellar Halo of Massive Galaxy using HSC
 layout: default
 modal-id: 1
 date: 2017
