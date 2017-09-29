@@ -71,7 +71,7 @@ hr.star-primary {
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
     background-color: #fff;
 }
 
@@ -181,7 +181,7 @@ section h2 {
 
 section.success {
     color: #{{ site.color.primary }};
-    background: #{{ site.color.secondary }};
+    background: #FFF;
 }
 
 @media(max-width:767px) {
