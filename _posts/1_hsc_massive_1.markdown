@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 7
-date: 2014-07-18
-img: cabin.png
+modal-id: 1
+date: 2017
+img: portfolio.001.png
 alt: image-alt
-project-date: Jan 2017
-client: Structure of Massive Galaxies
+project-date: 2017
+client: Submitted to ApJ
 category: Massive Galaxies
 description: The promising hierarchical assembly scenario of massive galaxies suggest the structure of these galaxies should depend on their environments or halo mass. Yet, at low redshift, observations find no clear evidence for that.  Here, using the deep images from the Subaru Hyper Suprime-Cam (HSC) survey, we map the stellar mass distributions of massive galaxies at $0.3 < z < 0.5$ out to the very outskirt, and detect subtle, but robust structural differences that depend on halo mass for central galaxies at high mass end. With the help of the \redm{} catalog, we separate these massive galaxies into centrals of halos that are more and less massive than 10^14. For centrals with similar stellar mass within 100 kpc, the ones from more massive halos on average have slightly more flattened inner profile within $\sim 10$-$20$ kpc, and more prominent outer envelope. Meanwhile, when matched at the same stellar mass within inner 10 kpc-a proxy of the mass of the in-situ component, the massive centrals of more massive halos show much more significant outer stellar envelopes. We also see that these two samples of massive galaxies follow slightly different mass-size relation and the relationship between the stellar mass within 100 and 10 kpc. Such differences in structure are broadly consistent with the expectation that central galaxy from more massive halo should have more complex merging history. These results highlight the importance of deep photometry in the study of the assembly history of massive galaxies.  
 
