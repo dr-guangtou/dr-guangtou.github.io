@@ -310,10 +310,10 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #{{ site.color.primary }};
+    border: solid 2px #fff;
     font-size: 20px;
     color: #{{ site.color.primary }};
-    background: 0 0;
+    background: #{{ site.color.secondary }};
     transition: all .3s ease-in-out;
 }
 
