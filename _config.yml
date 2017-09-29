@@ -1,8 +1,8 @@
 # Site settings
 title: "Song Huang's Homepage"
-email: dr.guangtou@gmail.com 
+email: shuang89@ucsc.edu
 url: https://dr-guangtou.github.io
-description: "This is Song Huang's homepage for Astrophysical Research" 
+description: "This is Song Huang's Homepage for Astrophysical Research"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -18,8 +18,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Song Huang  
-  location: Tokyo 
+  copyright: Dr. Song Huang
+  location: Santa Cruz, CA
   social: Around the Web
   credits: Credits
 
@@ -29,18 +29,18 @@ social:
     url: http://twitter.com/dr_guangtou
   - title: github
     url: http://github.com/dr-guangtou
-  - title: weibo 
+  - title: weibo
     url: http://www.weibo.com/1764919567
-  - title: linkedin 
+  - title: linkedin
     url: https://www.linkedin.com/in/%E5%B4%A7-%E9%BB%84-71b4a4117?trk=nav_responsive_tab_profile_pic
-  - title: google-plus 
-    url: https://plus.google.com/+SongHuangAstro 
+  - title: google-plus
+    url: https://plus.google.com/+SongHuangAstro
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Kavli-IPMU, University of Tokyo
-  - line: 5-1-5, Kashiwanoha, 
-  - line: Kashiwa, Chiba, Japan
+  - line: ISB Bldg Room 113
+  - line: 1156, High Street,
+  - line: Santa Cruz, CA, U.S.A
 
 # Credits content
 credits: 'This website is based on Jekyll theme <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>.'
