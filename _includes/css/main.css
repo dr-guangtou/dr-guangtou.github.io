@@ -310,7 +310,7 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 3px #{{ site.color.primary }};
     font-size: 20px;
     color: #{{ site.color.primary }};
     background: #{{ site.color.secondary }};
@@ -321,9 +321,9 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
-    color: #{{ site.color.primary }};
-    background: #fff;
+    border: solid 2px #{{ site.color.promary }};
+    color: #fff;
+    background: #{{ site.color.primary }};
 }
 
 .floating-label-form-group {
