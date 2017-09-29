@@ -75,6 +75,15 @@ hr.star-primary:after {
     background-color: #fff;
 }
 
+hr.star-third {
+    border-color: #fff;
+}
+
+hr.star-third:after {
+    color: #fff;
+    background-color: #{{ site.color.seondary }};
+}
+
 .img-centered {
     margin: 0 auto;
 }
