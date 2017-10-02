@@ -3,7 +3,7 @@ title: Mapping Stellar Halo of Massive Galaxy using HSC
 layout: default
 modal-id: 1
 date: 2017-08-01
-img: research_1.png
+img: research_2.png
 alt: image-alt
 project-date: 2017
 client: Submitted to MNRAS
