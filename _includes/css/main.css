@@ -83,7 +83,7 @@ hr.star-third {
 
 hr.star-third:after {
     color: #fff;
-    background-color: #{{ site.color.seondary-dark }};
+    background-color: #{{ site.color.secondary-dark }};
 }
 
 .img-centered {
