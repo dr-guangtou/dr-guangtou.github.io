@@ -285,7 +285,7 @@ section.success {
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
-        color: #{{ site.color.primary }};
+        color: transparent;
     }
 }
 
