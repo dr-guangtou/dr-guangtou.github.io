@@ -8,7 +8,7 @@ alt: image-alt
 project-date: 2017
 client: Submitted to MNRAS
 category: Massive Galaxies
-description:  We use ~100$ square degree of deep (>28.5 mag/arcsec<sup>2</sup>
+description:  We use ~100 square degree of deep (>28.5 mag/arcsec<sup>2</sup>
     in i-band), high-quality (median 0.6 arcsec seeing) imaging data from the
     Hyper Suprime--Cam (HSC) survey to investigate the halo mass dependence of
     the surface mass density profiles and outer stellar envelopes of massive
