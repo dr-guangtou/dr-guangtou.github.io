@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 **This website is still under-construction!!**
 
-My name is Song Huang (黄崧). I am an Assistant Professor at the Department of Astronomy in Tsinghua University, China.  You can find my CV [here] or checkout my [Github profile](https://github.com/dr-guangtou).
+My name is Song Huang (黄崧). I am an Assistant Professor at the Department of Astronomy in Tsinghua University, China.  You can find my CV [here](https://dr-guangtou.github.io/assets/pdf/cv.pdf) or checkout my [Github profile](https://github.com/dr-guangtou).
 
 My primary research interest is the observational study of galaxy evolution and galaxy-halo connection. Most of my works take advantage of today's multi-band imaging data, spectroscopic surveys, and hydrodynamic simulations to probe the structure assembly and star formation history of different classes of galaxies.  
 
