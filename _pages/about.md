@@ -1,26 +1,33 @@
 ---
 layout: about
-title: about
+title: Song Huang (黄崧)
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='http://astro.tsinghua.edu.cn/index.php/people-faculty/82-faculty/210-huang-song'>Assistant Professor</a>, <a href='http://astro.tsinghua.edu.cn/'>Department of Astronomy, Tsinghua University</a> 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: shuang.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>S605B, MongManWai Building,</p>
+    <p>Tsinghua University</p>
+    <p>Beijing 100084, China</p>
+    <p>shuang [at] tsinghua.edu.cn</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**This website is still under-construction!!**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is Song Huang (黄崧). I am an Assistant Professor at the Department of Astronomy in Tsinghua University, China.  You can find my CV [here] or checkout my [`Github` profile](https://github.com/dr-guangtou). Please contact me using **shuang [at] tsinghua.edu.cn**
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My primary research interest is the observational study of galaxy evolution and galaxy-halo connection.  
+Most of my works take advantage of today's multi-band imaging data, spectroscopic surveys, and hydrodynamic simulations to probe the structure assembly and star formation history of different classes of galaxies.  
+
+My recent works focus on both the most massive (elliptical galaxies) and most abundant (dwarf galaxies) galaxies in our universe.  
+With the help of weak gravitational lensing and statistical modeling techniques, I also aspire to deepen our understanding of galaxy-halo connection models and explore the applications of such models in observational cosmology.
+
+I am a member of the [Subaru Strategic Program (SSP)](https://hsc-release.mtk.nao.ac.jp/doc/) using the [Hyper-Suprime Camera (HSC)](https://www.naoj.org/Projects/HSC/) on the 8.2-meter Subaru Telescope and the [Merian Survey](https://merian.sites.ucsc.edu/) - an intermediate-band survey of the HSC footprint using the [Dark Energy Camera (DECam)](https://noirlab.edu/science/programs/ctio/instruments/Dark-Energy-Camera).
+Currently, I am applying to become a member of the [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/) spectroscopic survey project. 
+I am also involved in the development of [MUltiplexed Survey Telescope (MUST)](https://must.astro.tsinghua.edu.cn/must/) a new 6.5-meter telescope in China for the next-generation spectroscopic survey.
