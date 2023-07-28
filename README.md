@@ -1,4 +1,7 @@
 # al-folio
+
+[![pages-build-deployment](https://github.com/dr-guangtou/dr-guangtou.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/dr-guangtou/dr-guangtou.github.io/actions/workflows/pages/pages-build-deployment)
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
