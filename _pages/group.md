@@ -1,9 +1,10 @@
-title: My Group
+---
+sort_menu: 03
+layout: page
 permalink: /group/
-description: Introduction of My Group and Collaborators
+title: Group
 nav: true
-display_categories: [work]
-horizontal: false
+description: "Introduction to Song Huang's Group and Collaborators"
 ---
 
 ## Students 
@@ -11,3 +12,4 @@ horizontal: false
 - [Shuo Xu (许硕)](https://xuchuyi.github.io/)
 - [Xiaoya Zhang (张筱雅)]()
 - [Zechang Sun (孙泽昌)](https://zechangsun.github.io/)
+

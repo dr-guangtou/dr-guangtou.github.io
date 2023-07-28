@@ -1,8 +1,10 @@
 ---
+sort_menu: 04
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials related to the courses I will teach.
+description: Courses and Lectures by Song Huang
+nav: true
 
 ---
 
@@ -14,5 +16,5 @@ description: Materials related to the courses I will teach.
 
 ### Others
 
-I have spent some time with [`Taotie` (饕餮) - A curated collection of resources for astrophysical research](https://github.com/dr-guangtou/taotie). There is also a [Gitlab mirror](https://gitlab.com/dr-guangtou/taotie) if you have difficulty accessing Github. 
+I have spent some time with [Taotie (饕餮) - A curated collection of resources for astrophysical research](https://github.com/dr-guangtou/taotie). There is also a [Gitlab mirror](https://gitlab.com/dr-guangtou/taotie) if you have difficulty accessing Github. 
 The idea is to provide a community "bookmark" for students who want to get started with astronomy. Please let me know if you have any comments or suggestions. I would really appreciate it!

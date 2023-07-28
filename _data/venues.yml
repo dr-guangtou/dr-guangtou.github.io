@@ -1,18 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
 "ApJ":
   url: https://iopscience.iop.org/journal/0004-637X
-  color: "#00369f"
+  color: "#A1CCD1"
 
 "ApJL":
   url: https://iopscience.iop.org/journal/2041-8205
-  color: "#00369f"
+  color: "#F4F2DE"
 
 "MNRAS": 
   url: https://academic.oup.com/mnras
-  color: "#00369f"
+  color: "#E9B384"
+
+"RAA":
+  url: https://www.raa-journal.org/ 
+  color: "#7C9D96"
+
+"PASJ":
+  url: https://academic.oup.com/pasj
+  color: "#F4D160"
