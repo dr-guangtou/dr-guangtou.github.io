@@ -2,7 +2,7 @@
 layout: about
 title: Song Huang (黄崧)
 permalink: /
-subtitle: <a href='http://astro.tsinghua.edu.cn/index.php/people-faculty/82-faculty/210-huang-song'>Assistant Professor</a>, <a href='http://astro.tsinghua.edu.cn/'>Department of Astronomy, Tsinghua University</a> 
+subtitle: <a href='https://astro.tsinghua.edu.cn/info/1039/1625.htm'>Assistant Professor</a>, <a href='http://astro.tsinghua.edu.cn/'>Department of Astronomy, Tsinghua University</a> 
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>Beijing 100084, China</p>
     <p>shuang [at] tsinghua.edu.cn</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
