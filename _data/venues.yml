@@ -4,3 +4,12 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
+
+"ApJL":
+  url: https://iopscience.iop.org/journal/2041-8205
+
+"MNRAS": 
+  url: https://academic.oup.com/mnras
