@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dr-guangtou.github.io//pages/dr-guangtou/sitemap.xml
+Sitemap: https://dr-guangtou.github.io//sitemap.xml
