@@ -17,3 +17,7 @@
 "PASJ":
   url: https://academic.oup.com/pasj
   color: "#F4D160"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

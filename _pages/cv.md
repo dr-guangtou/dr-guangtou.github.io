@@ -7,9 +7,10 @@ nav: true
 cv_pdf: cv.pdf
 description: "Song Huang's Academic CV; Last Update: 2022-09"
 
+toc:
+  sidebar: left
+
 profile:
   align: right
-  image: shuang.jpg
-news: false
-social: false
+  image: prof_pic.jpg
 ---
