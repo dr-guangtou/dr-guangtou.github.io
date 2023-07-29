@@ -1034,3 +1034,20 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+.student-card {
+  width: 200px;
+  text-align: center;
+  margin: 10px;
+  float: left;
+}
+
+.student-card img {
+  width: 100%;
+}
+
+.student-card h3 {
+  margin: 0;
+  padding: 10px 0;
+  background-color: #f8f8f8;
+}
