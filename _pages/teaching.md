@@ -7,13 +7,16 @@ description: Courses and Lectures by Song Huang
 nav: true
 
 ---
-### Observational Astronomy (2023 Fall)
-
-### Observational Astronomy (2022 Fall)
+### Observational Astronomy (Undergraduate Course)
 
 - This course will provide a panoramic view of the landscape of modern astronomical observation, including some of the frontier fields of observational astrophysics. We will focus on the optical/infrared observations and cover the basics of the multi-wavelength and multi-messenger sides of the subject. This course will give a basic grasp of fundamental concepts and methods of observational astronomy.
 
-- I will share the syllabus and the lectures files here later. Please stay tuned.
+
+- I will teach this course in the coming semester of 2023 Fall. I will update the syllabus and the lectures files here later. Please stay tuned.
+
+#### Past Semesters 
+
+- [2022 Fall](/teaching/obsastro2022fall/)
 
 ### Others
 
