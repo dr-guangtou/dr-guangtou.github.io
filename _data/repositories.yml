@@ -2,10 +2,9 @@ github_users:
   - dr-guangtou
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dr-guangtou/taotie
+  - dr-guangtou/jianbing
+  - dr-guangtou/unagi
+  - dr-guangtou/kungpao
+  - dr-guangtou/asap
+  - dr-guangtou/luandun

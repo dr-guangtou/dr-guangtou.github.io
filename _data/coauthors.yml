@@ -17,3 +17,23 @@
 "Peng":
   - firstname: ["Chien", "Chien Y.", "C. Y.", "C."]
     url: https://users.obs.carnegiescience.edu/peng/
+
+"Li":
+  - firstname: ["Jiaxuan", "Jia-Xuan", "J. X."]
+    url: http://jiaxuanli.me/
+
+"Lange":
+  - firstname: ["Johannes", "J"]
+    url: https://johannesulf.github.io/
+
+"Behroozi":
+  - firstname: ["Peter", "P"]
+    url: https://www.peterbehroozi.com/
+
+"Kado-Fong": 
+  - firstname: ["Erin", "E"]
+    url: https://ekadofong.github.io/
+
+"Diemer":
+  - firstname: ["Benedikt", "B"]
+    url: http://www.benediktdiemer.com/
