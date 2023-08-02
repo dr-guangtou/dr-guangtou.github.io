@@ -32,3 +32,5 @@ I am a member of the [Subaru Strategic Program (SSP)](https://hsc-release.mtk.na
 I am also helping organize the development of [MUltiplexed Survey Telescope (MUST)](https://must.astro.tsinghua.edu.cn/must/), a new 6.5-meter telescope in China for the next-generation spectroscopic survey, and its scientific collaboration.
 
 I am always happy to discuss science and collaborate with people. Feel free to contact me if you are interested in my research or have any questions about my work.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdr-guangtou.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23A95A5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
