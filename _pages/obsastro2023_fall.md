@@ -43,8 +43,8 @@ This course will primarily cover the following four topics: 1. Observation: What
 - This course will also provide a small, parallel "crash course" about several practical skills required if you want to become a "high-end" amateur astronomer or a professional one. This involves knowing a bunch of cool websites or online tools that can make your life easier, learning a few cross-platform, open source softwares that helps you play with real data just like a sophisticated astronomer.
     - You can find the installers for several of the most useful softwares on this [Tsinghua Cloud link](https://cloud.tsinghua.edu.cn/d/669cfad8531d4d16ab59/)
 
-- The course will also use a hands-on data analysis task as the final project. By default, we use `Python` programming language in the interactive mode through a wonderful software package called `Jupyter`. Within a `Jupyter` notebook, you can load a series of tools (or `Python` libraries) provided by the community to help you deal with real imaging data of your favorite object. 
-    - `Python` is practically the default language for data science these days. So it doesn't hurt for you to learn a little bit of `Python` even if you have zero programming background. It is not very difficult. And the course will provide you a demo. 
+- The course will also use a hands-on data analysis task as the final project. By default, we use Python programming language in the interactive mode through a wonderful software package called Jupyter. Within a Jupyter notebook, you can load a series of tools (or Python libraries) provided by the community to help you deal with real imaging data of your favorite object. 
+    - Python is practically the default language for data science these days. So it doesn't hurt for you to learn a little bit of Python even if you have zero programming background. It is not very difficult. And the course will provide you a demo. 
     - If you believe you can finish the project using a different language, please feel free to do so. 
 
 ## Grading Scheme 
@@ -53,8 +53,8 @@ This course will primarily cover the following four topics: 1. Observation: What
     - You will get 5% of Attendance score for _free_. Your in person participation of the lecture is encouraged, but is not a mandate. 
 - Midterm (20%): There will be one midterm exam consisting of 20 single-choice questions.
     - To avoid the conflict with other mid-term exams, we will host the exam on **Week 11**.
-- Final Project (40%): "hands on" imaging data analysis using `Python` or any other programming language:
-    - If you are using `Python`, you will provide a `Jupyter` notebook that can be executed to reproduce the results. 
+- Final Project (40%): "hands on" imaging data analysis using Python or any other programming language:
+    - If you are using Python, you will provide a Jupyter notebook that can be executed to reproduce the results. 
     - If you are using a different programming language, you will provide the codes & a report to explain what you did.
 
 <br>
