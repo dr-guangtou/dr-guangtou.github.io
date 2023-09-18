@@ -11,6 +11,7 @@ nav: true
 
 - This course will provide a panoramic view of the landscape of modern astronomical observation, including some of the frontier fields of observational astrophysics. We will focus on the optical/infrared observations and cover the basics of the multi-wavelength and multi-messenger sides of the subject. This course will give a basic grasp of fundamental concepts and methods of observational astronomy.
 
+- [Observational Astronomy (30920023-90) - 2023 Fall](/teaching/obsastro2023fall/)
 
 - I will teach this course in the coming semester of 2023 Fall. I will update the syllabus and the lectures files here later. Please stay tuned.
 
