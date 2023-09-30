@@ -24,7 +24,8 @@ My group is a diverse group of people with different backgrounds and interests. 
 | [Shuo Xu (许硕)](https://xuchuyi.github.io/) | <img src="https://dr-guangtou.github.io/assets/img/shuo_xu.png" alt="Shuo XU" width="100" style="border-radius: 50%;"> | Shuo is working on improving the stellar-halo connection models of massive galaxies using both simulations and observations. |
 | [Xiao-Ya Zhang (张筱雅)](https://xyzhangwork.github.io/) | <img src="https://dr-guangtou.github.io/assets/img/xiaoya_zhang.jpg" alt="Xiao-Ya ZHANG" width="100" style="border-radius: 50%;"> | Xiao-Ya is currently working on combining the deeper images and IFU data of nearby massive galaxies to deepen our understanding of the assembly of massive galaxies. | 
 | [Ze-Chang Sun (孙泽昌)](https://zechangsun.github.io/) | <img src="https://dr-guangtou.github.io/assets/img/zechang_sun.png" alt="Ze-Chang SUN" width="100" style="border-radius: 50%;"> | Ze-Chang is an expert of machine learning's application in astronomy. He is currently working on improving the photometric redshift estimate and calibration for future surveys using machine learning techniques. |
-| Le-Yao Wei (韦乐瑶) | | (Starting 2023-09) |
+| Le-Yao Wei (韦乐瑶) | <img src="https://dr-guangtou.github.io/assets/img/leyao_wei.jpg" alt="Le-Yao WEI" width="100" style="border-radius: 50%;"> | Le-Yao is working on galaxy-halo connection of massive galaxies using HSC images. She also has experience in machine learning.|
+| Peng-Jun Lu (卢芃君) | <img src="https://dr-guangtou.github.io/assets/img/pengjun_lu.jpg" alt="Peng-Jun Lu" width="100" style="border-radius: 50%;"> | Co-adviced with Prof. Zheng Cai. Peng-Jun will work on high-redshift quiescent galaxies with the help of new JWST images. |
 
 <br>
 
