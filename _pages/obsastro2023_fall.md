@@ -9,18 +9,19 @@ nav: false
 
 ## The Goal of this Course
 
-In the last decade, a series of ground-breaking astronomical discoveries have stepped into the science spotlight and collected a bucketload of Nobel Physics medals. Do you know which surreal technology enables the confirmation of the supermassive black hole at the center of our galaxy? Can you imagine astronomers' challenges when searching for the first exoplanet? And do you understand the amount of effort behind the observational evidence for the "accelerated expansion of the Universe"? "Astronomy is a discipline based on observation." And, in this course, we will show you what it means. 
+In the last decade, ground-breaking astronomical discoveries have entered the science spotlight and collected a bucketload of Nobel Physics medals. Do you know which surreal technology enables the confirmation of the supermassive black hole at the center of our galaxy? Can you imagine astronomers' challenges when searching for the first exoplanet? Do you understand the amount of effort behind the observational evidence for the "accelerated expansion of the Universe"? "Astronomy is a discipline based on observation." And, in this course, we will show you what it means. 
 
 This course will give you a panoramic view of the landscape of modern astronomical observation, including some of the frontlines of observational astrophysics. We will focus on the optical/infrared observations and cover the basics of the multi-wavelength and multi-messenger sides of the subject. This course will give a basic grasp of fundamental concepts and methods of observational astronomy. Through a small project, you will also taste actual observation and essential data reduction. 
 
-This course will primarily cover the following four topics: 1. Observation: What is astronomical observation? Why do these observations? What did astronomers in history observe? And what are today's astrophysics targets? 2. Measurement: What are astronomers measuring during the observation? How do they achieve it? What fundamental space, time, and energy reference systems support all the cutting-edge observations? 3. Instrument: What equipment and instruments are essential for modern observation? And which exciting technologies are involved? 4. Methodology: How do the data collected during the observation become "science"? What are this critical data reduction step's common sense and universal logic?
+This course will primarily cover four topics: 1. Observation: What is astronomical observation? Why do these observations? What did astronomers in history observe? And what are today's astrophysics targets? 2. Measurement: What are astronomers measuring during the observation? How do they achieve it? What fundamental space, time, and energy reference systems support all the cutting-edge observations? 3. Instrument: What equipment and instruments are essential for modern observation? And which exciting technologies are involved? 4. Methodology: How do the data collected during the observation become "science"? What are this critical data reduction step's common sense and universal logic?
+
 
 ## Logistics 
 
 - Lecture time/place: Wednesday 19:20-21:45, Room A113 of the 6th Teaching Building (第六教学楼)
 - Instructor: Song Huang (黄崧) 
 - Teaching Assistant: Ming-Yu Li (李明宇)
-- Language: This course will be taught in Chinese; the lecture slides and homework assignments will be in English.
+- Language: This course will be in Chinese; the lecture slides and homework assignments will be in English.
 
 <br>
 
@@ -40,11 +41,11 @@ This course will primarily cover the following four topics: 1. Observation: What
 
 ## Hands-on Section 
 
-- This course will also provide a small, parallel "crash course" about several practical skills required if you want to become a "high-end" amateur astronomer or a professional one. This involves knowing a bunch of cool websites or online tools that can make your life easier and learning a few cross-platform, open-source software that helps you play with real data, just like a sophisticated astronomer.
+- This course will also provide a small, parallel "crash course" about several practical skills required to become a "high-end" amateur astronomer or a professional one. This involves knowing a bunch of cool websites or online tools that can make your life easier and learning a few cross-platform, open-source software that helps you play with real data, just like a sophisticated astronomer.
     - You can find the installers for several of the most useful software on this [Tsinghua Cloud link](https://cloud.tsinghua.edu.cn/d/669cfad8531d4d16ab59/)
 
 - The course will also use a hands-on data analysis task as the final project. By default, we use Python programming language in the interactive mode through a wonderful software package called Jupyter. Within a Jupyter Notebook, you can load a series of tools (or Python libraries) provided by the community to help you deal with real imaging data of your favorite object. 
-    - Python is practically the default language for data science these days. It doesn't hurt to learn a little Python, even if you have zero programming background. It is not very difficult. And the course will provide you with a demo. 
+    - Python is the default language for data science these days. It doesn't hurt to learn a little Python, even with zero programming background. It is not very difficult. And the course will provide you with a demo. 
     - If you can finish the project using a different language, please feel free to do so. 
 
 ## Grading Scheme 
@@ -62,12 +63,12 @@ This course will primarily cover the following four topics: 1. Observation: What
 ## Schedule 
 
 - The schedule for the rest of the semester will be updated later. 
-- We will also provide the links to the slides for the lectures here.
+- We will also provide the links to the slides for the lectures here. In case you want to see the step-by-step version of the PDF files of the slides, please find them in [this Tsinghua Cloud link](https://cloud.tsinghua.edu.cn/d/6067e4d13d704e6aaa4a/). 
 
 | --- | --- | --- | --- |
 | Week | Date | Lectures | Crash Course |
 | 1 | 2023-09-20 | [To View the Universe](https://cloud.tsinghua.edu.cn/f/a19d6d3654de42ab8669/) [(Keynote)](https://cloud.tsinghua.edu.cn/f/40a7a25ced0047fbb4ec/) | [Share the Sky](https://cloud.tsinghua.edu.cn/f/29c880961fb74e3587b5/) |
-| 2 | 2023-09-27 | Spatio-Temporal Reference Frames | TBD |
+| 2 | 2023-09-27 | [Spatio-Temporal Reference Frames](https://cloud.tsinghua.edu.cn/f/47f589cb1fd1418f9b79/) [(Keynote)](https://cloud.tsinghua.edu.cn/f/b74bb1395b2145be9453/)| [Organizing the Sky](https://cloud.tsinghua.edu.cn/f/3d973d0e65614b679c1a/) |
 | 3 | National Day | | |
 | 4 | 2023-10-11 | Radiation | TBD |
 | 5 | 2023-10-18 | From ISM to the Atmosphere | TBD |
