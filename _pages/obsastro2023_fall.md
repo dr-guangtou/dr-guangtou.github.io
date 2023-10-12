@@ -70,7 +70,7 @@ This course will primarily cover four topics: 1. Observation: What is astronomic
 | 1 | 2023-09-20 | [To View the Universe](https://cloud.tsinghua.edu.cn/f/a19d6d3654de42ab8669/) [(Keynote)](https://cloud.tsinghua.edu.cn/f/40a7a25ced0047fbb4ec/) | [Share the Sky](https://cloud.tsinghua.edu.cn/f/29c880961fb74e3587b5/) |
 | 2 | 2023-09-27 | [Spatio-Temporal Reference Frames](https://cloud.tsinghua.edu.cn/f/47f589cb1fd1418f9b79/) [(Keynote)](https://cloud.tsinghua.edu.cn/f/b74bb1395b2145be9453/)| [Organizing the Sky](https://cloud.tsinghua.edu.cn/f/3d973d0e65614b679c1a/) |
 | 3 | National Day | | |
-| 4 | 2023-10-11 | Radiation | TBD |
+| 4 | 2023-10-11 | [Radiation](https://cloud.tsinghua.edu.cn/f/f3265f70d8ff47d899a9/) [(Keynote)](https://cloud.tsinghua.edu.cn/f/dcac24bb87ed442280f4/) | [Filters & Units; CDS Portal](https://cloud.tsinghua.edu.cn/f/f85f3184b2454c9789ae/) |
 | 5 | 2023-10-18 | From ISM to the Atmosphere | TBD |
 | 6 | 2023-10-25 | Modern Telescopes  | TBD |
 
