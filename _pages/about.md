@@ -26,7 +26,7 @@ My name is Song Huang (黄崧). I am an associate professor (but I am still not 
 
 My primary research interest is the observational study of galaxy evolution and galaxy-halo connection. Most of my works take advantage of today's multi-band imaging data, spectroscopic surveys, and hydrodynamic simulations to probe the structure assembly and star formation history of different classes of galaxies. I have a group of [excellent students at Tsinghua now](https://dr-guangtou.github.io/group/), and we welcome collaborations! 
 
-My recent works focus on the most massive (elliptical) and most abundant (dwarf galaxies) galaxies in our universe. Using weak gravitational lensing and statistical modeling techniques, I also aspire to deepen our understanding of galaxy-halo connection models and explore their applications in observational cosmology.
+My recent works focus on the most massive (elliptical) and most abundant (dwarf galaxies) galaxies in our universe. Using weak gravitational lensing and statistical modeling techniques, I aspire to deepen our understanding of galaxy-halo connection models and explore their applications in observational cosmology.
 
 I am a member of the [Subaru Strategic Program (SSP)](https://hsc-release.mtk.nao.ac.jp/doc/) using the [Hyper-Suprime Camera (HSC)](https://www.naoj.org/Projects/HSC/) on the 8.2-meter Subaru Telescope and the [Merian Survey](https://merian.sites.ucsc.edu/) - an intermediate-band survey of the HSC footprint using the [Dark Energy Camera (DECam)](https://noirlab.edu/science/programs/ctio/instruments/Dark-Energy-Camera). Recently, I have also joined the [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/) spectroscopic survey project.
 
