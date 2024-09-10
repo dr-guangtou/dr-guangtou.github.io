@@ -3,11 +3,11 @@ sort_menu: 01
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://astro.tsinghua.edu.cn/info/1039/1625.htm'>Assistant Professor</a>, <a href='http://astro.tsinghua.edu.cn/'>Department of Astronomy, Tsinghua University</a> 
+subtitle: <a href='https://astro.tsinghua.edu.cn/info/1039/1625.htm'>Associate Professor</a>, <a href='http://astro.tsinghua.edu.cn/'>Department of Astronomy, Tsinghua University</a> 
 
 profile:
   align: right
-  image: shuang.jpg
+  image: prof-pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>E225, (New) Physics Building,</p>
