@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>E225, (New) Physics Building,</p>
+    <p>E315, (New) Physics Building,</p>
     <p>Tsinghua University</p>
     <p>Beijing 100084, China</p>
     <p>shuang [at] tsinghua.edu.cn</p>
