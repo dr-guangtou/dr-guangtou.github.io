@@ -7,7 +7,7 @@ subtitle: <a href='https://astro.tsinghua.edu.cn/info/1039/1625.htm'>Associate P
 
 profile:
   align: right
-  image: prof-pic.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>E225, (New) Physics Building,</p>
