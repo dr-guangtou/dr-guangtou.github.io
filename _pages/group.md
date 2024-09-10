@@ -9,13 +9,13 @@ description: "Introduction to Song Huang's Group and Collaborators. 科研团组
 
 ## What Are We Doing? 
 
-At Tsinghua, we are working on the study of galaxy formation and evolution using both observations and simulations. We are particularly interested in the formation of massive galaxies and the connection between galaxies and their host dark matter halos. We are also interested in the application of machine learning techniques in astronomy.
+At Tsinghua, we study galaxy formation and evolution using observations and simulations. We are particularly interested in the formation of massive galaxies and the connection between galaxies and their host dark matter halos. We are also interested in the application of machine learning techniques in astronomy.
 
 <br>
 
 ## Who Are We? 
 
-My group is a diverse group of people with different backgrounds and interests. We are always looking for new members to join us. If you are interested in working with us, please contact me.
+My group includes people from different backgrounds and interests. We are always looking for new members. If you are interested in working with us, please contact me.
 
 <br>
 ### Graduate Students 
@@ -26,15 +26,17 @@ My group is a diverse group of people with different backgrounds and interests. 
 | [Ze-Chang Sun (孙泽昌)](https://zechangsun.github.io/) | <img src="https://dr-guangtou.github.io/assets/img/zechang_sun.png" alt="Ze-Chang SUN" width="100" style="border-radius: 50%;"> | Ze-Chang is an expert of machine learning's application in astronomy. He is currently working on improving the photometric redshift estimate and calibration for future surveys using machine learning techniques. |
 | Le-Yao Wei (韦乐瑶) | <img src="https://dr-guangtou.github.io/assets/img/leyao_wei.jpg" alt="Le-Yao WEI" width="100" style="border-radius: 50%;"> | Le-Yao is working on galaxy-halo connection of massive galaxies using HSC images. She also has experience in machine learning.|
 | Peng-Jun Lu (卢芃君) | <img src="https://dr-guangtou.github.io/assets/img/pengjun_lu.jpg" alt="Peng-Jun Lu" width="100" style="border-radius: 50%;"> | Co-adviced with Prof. Zheng Cai. Peng-Jun will work on high-redshift quiescent galaxies with the help of new JWST images. |
+| Xin Qiao (乔鑫) | <img src="https://dr-guangtou.github.io/assets/img/2.jpg" alt="Peng-Jun Lu" width="100" style="border-radius: 50%;"> | Peng-Xin is working on recovering some of the lowest surface brightness galaxies in nearby galaxy clusters. |
 
 <br>
 
 ### Undergraduate Students
 
-- Xin Qiao (乔鑫)
-    - Xin is currently working on detecting low surface brightness galaxies in HSC images of low-redshift clusters and study their stellar nuclei.
+> We have interesting projects for undergraduate students at different levels or with various backgrounds. These projects focus on analyzing observational and simulation data. Please feel free to reach out if you are curious! 
+> 课题组面向不同背景和学习阶段的本科生提供科研实践项目，涉及观测或者数值模拟数据的分析。如果你感到好奇，欢迎联系我！
+
 - Shi-Hao Dong (董施昊) 
-    - Shi-Hao is trying to find compact galaxies using the amazing _Gaia_ data. 
+    - Shi-Hao is trying to find compact galaxies using the impressive _Gaia_ data. 
 
 <br>
 ### Post-docs
@@ -42,13 +44,11 @@ My group is a diverse group of people with different backgrounds and interests. 
 - [Yu Liu (刘雨)](https://www.researchgate.net/profile/Yu-Liu-234): Shui-Mu Fellow (水木青年学者), 2022-2024
     - Yu is working with me and Prof. Cheng Zhao (赵成) on cosmological simulations and predictions for the [MUltiplexed Survey Telescope (MUST)](https://must.astro.tsinghua.edu.cn/must/) project.
 
-- [Xing-Chen Zhou (周兴辰)](): MUST Fellowship, Starting 2024
-    - Xing-Chen will help us prepare the target-selection strategy for the MUST project.
 
 <br>
 ## Past Collaborating Students
 
-- Over my years as a Ph.D. student and post-doc, I am very lucky to have the opportunity to work with many talented students. Here is an incomplete list of students who have worked with me in the past:
+- Over my years as a Ph.D. student and post-doc, I have been fortunate to have had the opportunity to work with many talented students. Here is an incomplete list of students who have worked with me in the past:
 
 - [Jia-Xuan Li (李嘉轩)](http://jiaxuanli.me/): Ph.D. student at the Princeton University, USA
 - [Yi-Fei Luo (罗逸飞)](https://www.yifei-luo.com/): Ph.D. student at the University of California, Santa Cruz, USA
