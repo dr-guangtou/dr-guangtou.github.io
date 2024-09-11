@@ -63,7 +63,7 @@ This course will primarily cover four topics: 1. What is astronomical observatio
 ## Schedule 
 
 - The schedule for the rest of the semester will be updated later. 
-- We will also provide the links to the lecture slides here. In case you want to see the step-by-step version of the PDF files of the slides, please find them in [this Tsinghua Cloud link](https://cloud.tsinghua.edu.cn/d/6067e4d13d704e6aaa4a/). 
+- We will also provide the links to the lecture slides here. In case you want to see the step-by-step version of the PDF files of the slides, please find them in [this Tsinghua Cloud link](https://cloud.tsinghua.edu.cn/d/3e4c9bd383684ed4bcd2/). 
 
 | --- | --- | --- | --- |
 | Week | Date | Lectures | Crash Course |
