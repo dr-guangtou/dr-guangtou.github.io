@@ -26,7 +26,7 @@ My group includes people from different backgrounds and interests. We are always
 | [Ze-Chang Sun (孙泽昌)](https://zechangsun.github.io/) | <img src="https://dr-guangtou.github.io/assets/img/zechang_sun.png" alt="Ze-Chang SUN" width="100" style="border-radius: 50%;"> | Ze-Chang is an expert of machine learning's application in astronomy. He is currently working on improving the photometric redshift estimate and calibration for future surveys using machine learning techniques. |
 | [Le-Yao Wei (韦乐瑶)](https://denekow.github.io) | <img src="https://dr-guangtou.github.io/assets/img/leyao_wei.jpg" alt="Le-Yao WEI" width="100" style="border-radius: 50%;"> | Le-Yao is working on galaxy-halo connection of massive galaxies using HSC images. She also has experience in machine learning.|
 | Peng-Jun Lu (卢芃君) | <img src="https://dr-guangtou.github.io/assets/img/pengjun_lu.jpg" alt="Peng-Jun Lu" width="100" style="border-radius: 50%;"> | Co-adviced with Prof. Zheng Cai. Peng-Jun will work on high-redshift quiescent galaxies with the help of new JWST images. |
-| Xin Qiao (乔鑫) | <img src="https://dr-guangtou.github.io/assets/img/2.jpg" alt="Peng-Jun Lu" width="100" style="border-radius: 50%;"> | Peng-Xin is working on recovering some of the lowest surface brightness galaxies in nearby galaxy clusters. |
+| Xin Qiao (乔鑫) | <img src="https://dr-guangtou.github.io/assets/img/xin_qiao.jpg" alt="Peng-Jun Lu" width="100" style="border-radius: 50%;"> | Peng-Xin is working on recovering some of the lowest surface brightness galaxies in nearby galaxy clusters. |
 
 <br>
 
