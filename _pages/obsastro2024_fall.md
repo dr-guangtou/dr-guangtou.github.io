@@ -67,8 +67,8 @@ This course will primarily cover four topics: 1. What is astronomical observatio
 
 | --- | --- | --- | --- |
 | Week | Date | Lectures | Crash Course |
-| 1 | 2023-09-11 | To See the Universe | Share the Sky |
-| 2 | 2023-09-18 | Spatio-Temporal Reference Frames| TBD |
+| 1 | 2023-09-11 | [To See the Universe](https://cloud.tsinghua.edu.cn/d/e42aba0bcb114c9e967c/) | [To Share the Sky](https://cloud.tsinghua.edu.cn/d/e42aba0bcb114c9e967c/) |
+| 2 | 2023-09-18 | [To Rule the Space and Time](https://cloud.tsinghua.edu.cn/d/4f76f5a8fd754e94ac86/) | [Coordinate and Time Conversion](https://cloud.tsinghua.edu.cn/d/4f76f5a8fd754e94ac86/) |
 | 3 | 2023-09-25 | Radiation | TBD |
 | 4 | 2023-10-02 | National Day Holiday |  |
 | 5 | 2023-10-09 | From ISM to the Atmosphere | TBD |
